@@ -10,7 +10,7 @@ BikeLocker is an iOS app created for the modern city biker. It will help you fin
 
 ## About the Authors
 
-[Nancy Chu](https://www.linkedin.com/in/chunancy/) holds a BS in Mechanical Engineering from UBC and is an experienced in the robotics industry. She was the project manager in this project, responsible for the roadmap, backlog and sprints planning on ZenHub, plus a great portion of the code, especially the GraphQL backend on GraphCool.
+[Nancy Chu](https://www.linkedin.com/in/chunancy/) holds a BS in Mechanical Engineering from UBC and is experienced in the robotics industry. She was the project manager in this project, responsible for the roadmap, backlog and sprints planning on ZenHub, plus a great portion of the code, especially the GraphQL backend on GraphCool.
 
 [Gavin Jin](https://www.linkedin.com/in/gavin-jin-288160178/) is a talented developer, constantly seeking new technologies to learn. More recently, he is diving into blockchain technologies. He loves using Javascript, React, React Native and CSS. In this project, he mainly contributed to the backend in GraphQL and the CRUD for the bike lockers.
 
